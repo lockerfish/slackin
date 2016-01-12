@@ -21,7 +21,7 @@ Read more about the [motivations and history](http://rauchg.com/slackin) behind 
 
 #### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rauchg/slackin/tree/0.8.1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lockerfish/slackin/tree/0.8.1)
 
 #### Azure
 
@@ -29,7 +29,7 @@ Read more about the [motivations and history](http://rauchg.com/slackin) behind 
 
 #### OpenShift
 
-[Follow these instructions.](https://github.com/rauchg/slackin/wiki/OpenShift)
+[Follow these instructions.](https://github.com/lockerfish/slackin/wiki/OpenShift)
 
 #### Cloud Foundry
 
